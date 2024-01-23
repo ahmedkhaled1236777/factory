@@ -97,7 +97,12 @@ class _homeState extends State<home> {
                                     :  appcolors.amcolor,
                               ),
                             ),
+                            //hello w
+                            //
+                            //orld
+                         //new command
                           ),
+                          
                         ),
                       ),
                       ).toList(),
